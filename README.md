@@ -7,7 +7,6 @@ Manual QA checklist for **[e.ggtimer.com](https://e.ggtimer.com)**, a client-sid
 | File | Description |
 |------|-------------|
 | [CHECKLIST.md](CHECKLIST.md) | Full test case checklist (180+ cases across 8 sections) |
-| [CLAUDE.md](CLAUDE.md) | Testing strategy template and AI guidance notes |
 
 ## Checklist Structure
 
